@@ -14,7 +14,6 @@ A aplicação é uma calculadora simples que permite realizar operações matem�
 
 ## Como rodar o projeto
 
-1. Clone o repositório:
    ```bash
    git clone https://github.com/joaodfreitas/Projeto-Calcular.git
    cd Projeto-Calcular
